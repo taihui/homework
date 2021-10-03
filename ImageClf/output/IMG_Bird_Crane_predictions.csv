@@ -1,0 +1,55 @@
+Pretrained_Model,Top-5 Predictions (label: confidence)
+AlexNet,(hartebeest: 12.496%)
+,(vulture: 9.746%)
+,"(bald eagle, American eagle, Haliaeetus leucocephalus: 9.578%)"
+,"(cheetah, chetah, Acinonyx jubatus: 8.6%)"
+,(warthog: 5.382%)
+,
+VGG19,(water snake: 49.911%)
+,(sea snake: 10.116%)
+,"(hook, claw: 9.021%)"
+,"(ringneck snake, ring-necked snake, ring snake: 5.908%)"
+,(eel: 4.021%)
+,
+ResNet50,(nail: 52.138%)
+,(water snake: 16.022%)
+,"(hook, claw: 15.25%)"
+,(chain: 4.991%)
+,(padlock: 3.836%)
+,
+ResNet152,(water snake: 98.133%)
+,"(hook, claw: 0.373%)"
+,"(ringneck snake, ring-necked snake, ring snake: 0.192%)"
+,(sea snake: 0.179%)
+,"(spider monkey, Ateles geoffroyi: 0.109%)"
+,
+SqueezeNet,(water snake: 43.453%)
+,"(hook, claw: 3.872%)"
+,(sea snake: 3.737%)
+,(tusker: 3.328%)
+,"(bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis: 2.875%)"
+,
+Densenet121,"(hook, claw: 36.749%)"
+,(water snake: 9.043%)
+,(nail: 8.255%)
+,"(cliff, drop, drop-off: 2.348%)"
+,(castle: 1.933%)
+,
+Densenet169,(water snake: 84.49%)
+,"(hook, claw: 3.583%)"
+,"(ringneck snake, ring-necked snake, ring snake: 2.781%)"
+,"(thunder snake, worm snake, Carphophis amoenus: 2.2%)"
+,"(night snake, Hypsiglena torquata: 2.055%)"
+,
+Inception-v3,"(hook, claw: 97.277%)"
+,(scorpion: 1.763%)
+,(water snake: 0.312%)
+,(nail: 0.115%)
+,(safety pin: 0.104%)
+,
+ResNeXt-101-32x8d,(water snake: 97.856%)
+,(eel: 0.674%)
+,(sea snake: 0.423%)
+,"(night snake, Hypsiglena torquata: 0.29%)"
+,"(rock python, rock snake, Python sebae: 0.264%)"
+,

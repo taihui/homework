@@ -1,0 +1,55 @@
+Pretrained_Model,Top-5 Predictions (label: confidence)
+AlexNet,"(black stork, Ciconia nigra: 4.722%)"
+,"(hip, rose hip, rosehip: 3.793%)"
+,"(Arabian camel, dromedary, Camelus dromedarius: 3.598%)"
+,(scorpion: 3.373%)
+,"(brassiere, bra, bandeau: 3.028%)"
+,
+VGG19,(curly-coated retriever: 27.118%)
+,(standard poodle: 16.453%)
+,"(black stork, Ciconia nigra: 7.337%)"
+,(matchstick: 6.776%)
+,"(ostrich, Struthio camelus: 6.731%)"
+,
+ResNet50,"(black stork, Ciconia nigra: 48.763%)"
+,"(hook, claw: 7.394%)"
+,(black grouse: 5.249%)
+,(crane: 3.342%)
+,(hatchet: 2.436%)
+,
+ResNet152,"(brassiere, bra, bandeau: 28.915%)"
+,"(book jacket, dust cover, dust jacket, dust wrapper: 17.381%)"
+,(bow: 5.347%)
+,"(balance beam, beam: 4.246%)"
+,(ladle: 3.047%)
+,
+SqueezeNet,(chain: 9.849%)
+,(knot: 9.154%)
+,"(bolo tie, bolo, bola tie, bola: 8.814%)"
+,"(hook, claw: 8.386%)"
+,(hair slide: 6.045%)
+,
+Densenet121,"(skunk, polecat, wood pussy: 8.347%)"
+,(red wine: 6.709%)
+,(matchstick: 6.004%)
+,"(hook, claw: 5.917%)"
+,(scorpion: 4.781%)
+,
+Densenet169,(curly-coated retriever: 19.884%)
+,(maraca: 12.171%)
+,(whistle: 10.451%)
+,"(hook, claw: 4.441%)"
+,"(black stork, Ciconia nigra: 3.905%)"
+,
+Inception-v3,"(killer whale, killer, orca, grampus, sea wolf, Orcinus orca: 79.334%)"
+,"(carousel, carrousel, merry-go-round, roundabout, whirligig: 3.353%)"
+,"(Boston bull, Boston terrier: 3.112%)"
+,(table lamp: 2.51%)
+,"(black stork, Ciconia nigra: 1.644%)"
+,
+ResNeXt-101-32x8d,"(black stork, Ciconia nigra: 24.045%)"
+,"(gong, tam-tam: 16.242%)"
+,"(bolo tie, bolo, bola tie, bola: 5.096%)"
+,"(puck, hockey puck: 4.112%)"
+,(scorpion: 4.107%)
+,
