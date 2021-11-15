@@ -1,0 +1,8 @@
+best_epoch=1100
+
+final_train_acc=3.4
+
+final_val_acc=2.75
+
+final_test_acc=2.846112600536193
+
