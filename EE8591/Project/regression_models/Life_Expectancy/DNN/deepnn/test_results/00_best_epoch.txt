@@ -1,0 +1,8 @@
+best_epoch=9300
+
+final_train_mse=1.4261426329612732
+
+final_val_mse=8.09971555074056
+
+final_test_mse=21.00981694459915
+
